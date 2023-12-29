@@ -3,5 +3,4 @@
   "version": "0.0.1",
   "displayName": "My Package",
   "description": "Description here",
-  // Other fields like author, unity version, dependencies, etc.
 }
