@@ -1,6 +1,6 @@
 {
-  "name": "com.unity-architecture-shared-assets",
+  "name": "com.simonnordon4.unity-architecture-shared-assets",
   "version": "0.0.1",
-  "displayName": "My Package",
-  "description": "Description here",
+  "displayName": "Unity Architecture Shared Assets",
+  "description": "Art Assets to be shared across all Unity Architecture series projects"
 }
